@@ -1,6 +1,6 @@
 {
   "name": "@kangbyungseon/sv-set-scheme",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "StradVision SET Data Scheme",
   "main": "index.js",
   "repository": {
@@ -8,8 +8,7 @@
     "url": "https://github.com/kangbyungseon/sv-set-scheme.git"
   },
   "scripts": {
-    "build": "tsc",
-    "publish": "npm publish"
+    "build": "tsc"
   },
   "author": "kangbyungseon",
   "license": "ISC",

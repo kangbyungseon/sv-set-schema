@@ -1,6 +1,6 @@
 {
   "name": "@kangbyungseon/sv-set-scheme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "StradVision SET Data Scheme",
   "main": "index.js",
   "repository": {
@@ -8,11 +8,16 @@
     "url": "https://github.com/kangbyungseon/sv-set-scheme.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "publish": "npm publish"
   },
   "author": "kangbyungseon",
   "license": "ISC",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "type": "module"
 }

@@ -1,6 +1,6 @@
 # StradVision SET Scheme
 
-## Install
+## Installation
 
 `npm install @kangbyungseon/sv-set-scheme`
 

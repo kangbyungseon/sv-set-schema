@@ -1,11 +1,11 @@
 {
-  "name": "@kangbyungseon/sv-set-scheme",
+  "name": "@kangbyungseon/sv-set-schema",
   "version": "0.0.10",
-  "description": "StradVision SET Data Scheme",
+  "description": "StradVision SET Data Schema",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kangbyungseon/sv-set-scheme.git"
+    "url": "https://github.com/kangbyungseon/sv-set-schema.git"
   },
   "scripts": {
     "build": "tsc"
